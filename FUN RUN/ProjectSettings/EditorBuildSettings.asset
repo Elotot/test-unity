@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Gorilla/Gorilla Locomotion.unity
+    guid: dd85442b7d3a3f047ad9a1e3df419bcf
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 97f9082f157ef0643bc3c396de538a09, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 0b0ec9e89bafe004d93d6b489e9c9790, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: a22cd2da1e8cfad4d99d282dcc811b28, type: 2}
