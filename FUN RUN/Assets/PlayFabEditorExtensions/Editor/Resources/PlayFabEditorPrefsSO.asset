@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
   m_Name: PlayFabEditorPrefsSO
   m_EditorClassIdentifier: 
-  DevAccountEmail: 
-  DevAccountToken: 
+  DevAccountEmail: ableapesvr@gmail.com
+  DevAccountToken: 9oq55eusuaf7bihruaoao7umzphhgt7j8hwc6u3fci4mrzgtry8gdcc17oetg8r8zro1okgzbiyy5jbetc846drs8i84g1bze7iebzipj6rku3xe43m17yyr78bzwr7nf359rsjgbfs7gmpbb96wndtiq6q1oxtg1hyz989bp7egep44n3i8k6inxby86kc6my6ep7hu
   AadAuthorization: 
-  SelectedStudio: 
-  SdkPath: 
+  SelectedStudio: My Game Studio
+  SdkPath: Assets/PlayFabSDK
   EdExPath: 
   LocalCloudScriptPath: 
   PanelIsShown: 0
-  curMainMenuIdx: 0
+  curMainMenuIdx: 1
   curSubMenuIdx: 0
