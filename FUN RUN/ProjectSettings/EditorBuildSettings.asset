@@ -5,7 +5,7 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Gorilla/Gorilla Locomotion.unity
     guid: dd85442b7d3a3f047ad9a1e3df419bcf
   - enabled: 1
