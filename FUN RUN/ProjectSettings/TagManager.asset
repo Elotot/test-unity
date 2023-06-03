@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - HandTag
+  - Food
   layers:
   - Default
   - TransparentFX
