@@ -25,7 +25,7 @@ using easyInputs;
 
         private void HandlePrefabSpawn()
         {
-            if (EasyInputs.GetTriggerButtonDown(hand))
+            if (EasyInputs.GetGripButtonDown(hand))
             {
                 if (spawnedPrefab == null && IsNearClimbableWall())
                 {  
